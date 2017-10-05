@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\aad-TaskMakerExam\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_add_task.xml",
+        "source": "D:\\aad-TaskMakerExam\\app\\src\\main\\res\\menu\\menu_add_task.xml"
+    },
+    {
+        "merged": "D:\\aad-TaskMakerExam\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\aad-TaskMakerExam\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\aad-TaskMakerExam\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_task_detail.xml",
+        "source": "D:\\aad-TaskMakerExam\\app\\src\\main\\res\\menu\\menu_task_detail.xml"
+    }
+]

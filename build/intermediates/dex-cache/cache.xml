@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.android\build-cache\3079c578dcb9139a84a0cdeff1c53cb584b6b7a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="536228b2496030d983d01856aa56b4d71b57d0db">
+        <dex dex="D:\aad-TaskMakerExam\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ecad6476b5b51cf9ee695a7f5f8bb11d99a9dfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\aad-TaskMakerExam\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="56aa91075c68a8d6606432c1fb0c67aa6e3838e2">
+        <dex dex="D:\aad-TaskMakerExam\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_229600cdb26aabe381d5868907e543f56fb86cfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\aad-TaskMakerExam\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\aad-TaskMakerExam\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cca91942b71978fce61b8f002a07f8f865ec783f\classes.dex" />
+    </item>
+
+</items>

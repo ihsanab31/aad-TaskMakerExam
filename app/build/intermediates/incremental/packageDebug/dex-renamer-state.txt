@@ -1,0 +1,7 @@
+#Thu Oct 05 10:51:23 ICT 2017
+base.0=D\:\\aad-TaskMakerExam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cca91942b71978fce61b8f002a07f8f865ec783f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\aad-TaskMakerExam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_229600cdb26aabe381d5868907e543f56fb86cfa\\classes.dex
+base.1=D\:\\aad-TaskMakerExam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_229600cdb26aabe381d5868907e543f56fb86cfa
+file.0=D\:\\aad-TaskMakerExam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cca91942b71978fce61b8f002a07f8f865ec783f\\classes.dex
